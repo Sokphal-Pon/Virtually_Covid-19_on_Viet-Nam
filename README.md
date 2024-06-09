@@ -1,11 +1,11 @@
 # Project for assignment Data-Analysis
-
+# import & cleanning data 
 1 Display data from a csv file
 ![alt text](image.png)
 
 2 cleaning data
 ![alt text](image-1.png)
-
+# Virtually data
 3 Virtally province infected cases
 ![alt text](image-2.png)
 
@@ -29,7 +29,7 @@
 
 10 virtually province top-3 death from covid-19
 ![alt text](image-9.png)
-
+# Map data in Vietnam
 11 Virtually detial covid-19 in Map, follow by province in Vietnam
 ![alt text](image-10.png)
 
